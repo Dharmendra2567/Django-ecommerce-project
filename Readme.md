@@ -38,7 +38,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Aman Ojha** - *Initial work* - [Aman Ojha](https://github.com/coderaman07)
+* **Dharmendra Sah & Niraj Jha** - *Initial work* - [Aman Ojha](https://github.com/Dharmendra2567/Django-ecommerce-project)
 
 ## License
 
